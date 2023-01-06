@@ -1,0 +1,14 @@
+.footer-cont {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f0f0f0;
+    height: 2em;
+    display: inline-block;
+
+    .footer {
+        max-width: 1000px;
+        margin: auto;
+    }
+}

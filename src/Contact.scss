@@ -1,0 +1,15 @@
+form {
+
+    .MuiTextField-root {
+
+        &.name,
+        &.email,
+        &.phone {
+            width: 100%;
+        }
+    }
+
+    .MuiTextField-root.query {
+        width: 100%;
+    }
+}
