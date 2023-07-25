@@ -28,17 +28,17 @@ const Home = () => {
             </p>
 
             <Grid container spacing={2}>
-                <Grid xs={12} md={4} item>
+                <Grid xs={12} sm={4} md={4} item>
                     <Paper elevation={2} className="paper">
                         Dropoff & Collection
                     </Paper>
                 </Grid>
-                <Grid xs={12} md={4} item>
+                <Grid xs={12} sm={4} md={4} item>
                     <Paper elevation={2} className="paper">
                         Remote Support
                     </Paper>
                 </Grid>
-                <Grid xs={12} md={4} item>
+                <Grid xs={12} sm={4} md={4} item>
                     <Paper elevation={2} className="paper">
                         Home / Business Visits
                     </Paper>

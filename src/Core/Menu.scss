@@ -1,22 +1,22 @@
 nav {
-    display: inline-block;
-    line-height: 3em;
+  display: inline-block;
+  line-height: 3em;
 
-    ul {
-        padding-left: 1em;
+  ul {
+    padding-left: 1em;
 
-        li {
-            display: inline-block;
+    li {
+      display: inline-block;
 
-            .phone {
-                text-decoration: none;
-                color: initial;
-                padding: 1em;
+      .phone {
+        text-decoration: none;
+        color: initial;
+        padding: 1em;
 
-                &:hover {
-                    border-bottom: 1px solid orange;
-                }
-            }
+        &:hover {
+          border-bottom: 1px solid orange;
         }
+      }
     }
+  }
 }
