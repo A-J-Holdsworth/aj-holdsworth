@@ -64,7 +64,7 @@ const Home = () => {
 
   return (
     <div className="home">
-      <p>Blurb</p>
+      {/* <p>Blurb</p> */}
 
       <Grid container spacing={2}>
         <Grid xs={12} sm={4} md={4} item>
