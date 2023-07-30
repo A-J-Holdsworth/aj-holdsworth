@@ -49,7 +49,7 @@ const Contact = () => {
 
       <p>
         Please feel free to contact me directly by calling me on{" "}
-        <a href="tel:07968814135">07969071786</a> or by emailing me at{" "}
+        <a href="tel:07968814135">07968814135</a> or by emailing me at{" "}
         <a href="mailto:solihullpchelp@outlook.com">
           solihullpchelp@outlook.com
         </a>
